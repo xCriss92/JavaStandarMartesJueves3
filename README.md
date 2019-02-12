@@ -1,9 +1,9 @@
 # JavaStandarMartesJueves3
 
-Sobrecarga de métodos
-Modificadores de visibilidad private y public
-Encapsulamiento
-Constructores
-Métodos y atributos de instancia y de clase
-Mecanismo de herencia
+  Sobrecarga de métodos
+  Modificadores de visibilidad private y public
+  Encapsulamiento
+  Constructores
+  Métodos y atributos de instancia y de clase
+  Mecanismo de herencia
 
